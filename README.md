@@ -68,3 +68,7 @@ View Expenses: View the list of expenses by category along with the total spent.
 
 Delete Expense: Remove any unwanted expenses from the list.
 
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
